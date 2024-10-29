@@ -1,0 +1,1 @@
+.flex{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;gap:16px}#loader{display:none}#loader.active{display:block}#connection-successful{display:none;margin:0}#connection-successful.active{display:block}#connection-error{display:none;margin:0}#connection-error.active{display:block}
